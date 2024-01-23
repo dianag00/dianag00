@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
+# 😄 Pronouns: she/her/hers
+# 🌱 I’m currently learning Python & C++
 
-- 🌱 I’m currently learning Python & C++
-- 😄 Pronouns: she/her/hers
 -->
