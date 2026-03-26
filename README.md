@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Diana!👋
 
-<!--
-**dianag00/dianag00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student at WGU driven by the creative side of software: building something that doesn't just work but feels clean, intentional, and genuinely enjoyable to use. The problem solving along the way is just the fun part -- which can be frustrating at times, but I'm too stubborn to not see it through!
 
-Here are some ideas to get you started:
+When I'm not coding you'll either find me gaming across PC, PlayStation, and Switch -- a passion that started with a Game Boy Advance SP -- or down a rabbit hole reading or watching videos about the latest tech drops. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### What I'm Working On 🌱:
+- **Java Fundamentals**: Sharpening my skills through [Exercism](https://exercism.org)
+- **Python Fundamentals**: Working through *Python Crash Course* by Eric Matthes
+- **CS Foundations**: Exploring concepts through [CodePath](https://codepath.org)
+- **Full Stack Software Engineering**: Where I'm headed
+
+
+
+> I'm always learning -- let's connect! 😊
+
