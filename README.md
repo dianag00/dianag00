@@ -1,4 +1,4 @@
-## Hey, I'm Diana!👋
+## Hey, I'm Diana! 👋
 
 I'm a CS student at WGU driven by the creative side of software: building something that doesn't just work but feels clean, intentional, and genuinely enjoyable to use. The problem solving along the way is just the fun part -- which can be frustrating at times, but I'm too stubborn to not see it through!
 
